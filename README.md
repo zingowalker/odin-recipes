@@ -1,5 +1,7 @@
 # odin-recipes
 
+https://zingowalker.github.io/odin-recipes/
+
 Odin Recipe - Learnings from the Odin Project
 
 My first Odin project.
