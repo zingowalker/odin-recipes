@@ -1,0 +1,9 @@
+h1, h2, h3, p, ol, ul, img {
+    margin: 10px;
+    padding: 10px;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+}
